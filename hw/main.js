@@ -115,8 +115,7 @@
 // let myName = prompt('Ведіть ваше імя');
 // let myLastName = prompt('Ведіть побатькови');
 // let myAge = prompt('Ваш вік');
-// alert(`Вітаю ${myName} ${myLastName}`);
-// alert(`Вік ${myAge}`);
+//alert(`Вітаю ${myName} ${myLastName} Вік ${myAge}`);
 // let a = 100;
 // let b = '100';
 // let c = true;

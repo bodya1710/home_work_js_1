@@ -2,6 +2,7 @@ let arr = [Math.random(), 1, 67, Math.random(), 65, 32, 22, 43, 87, 45];
 console.log(arr);
 let result = Math.floor(arr[0] + arr[1] + arr[2] + arr[3] + arr[4] + arr[5] + arr[6] + arr[7] + arr[8] + arr[9]);
 console.log(result);
+console.log(arr[0] + arr[1] + arr[2] + arr[3] + arr[4] + arr[5] + arr[6] + arr[7] + arr[8] + arr[9])
 
 let book = {
     name: '1984',
@@ -65,8 +66,9 @@ console.log(s);
 let heightC = 10;
 let dC = 4;
 let p = 3.14;
-let v = p*Math.pow(dC, 2)*heightC;
+let v = p*Math.pow((dC/2), 2)*heightC;
 console.log(v);
+
 
 
 let n = 3;
